@@ -1,2 +1,1 @@
-# Sorting Algorithms for Beginners
-3 work a lgo
+# Sorting algorithm for integer arrays
